@@ -29,3 +29,5 @@ rode `npm run storybook` ou `yarn storybook`
 
 - reactJS
 - styled-components
+- storybook
+- jest
